@@ -11,9 +11,9 @@ Componenets of Game:
   - game: to repeat this cycle 9 times and announce the result
 
 # Main Files
-`
-/
-|-  main.rb                 # file for instantiating or using the game class
-|-  lib
-|   |-  tic_tac_toe.rb      # File for game class
-`
+`  
+/  
+|-  main.rb                 # file for instantiating or using the game class  
+|-  lib  
+|   |-  tic_tac_toe.rb      # File for game class  
+`  
