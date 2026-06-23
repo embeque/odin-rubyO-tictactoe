@@ -5,6 +5,5 @@ require 'pry-byebug'
 require './lib/tic_tac_toe'
 
 # code
-game = TicTacToe.new
-puts game.game
-puts 'end'
+TicTacToe.new.game
+puts 'Game End'

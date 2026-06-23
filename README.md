@@ -1,4 +1,4 @@
-Project: Tic-Tac-Toe  
+# Project: Tic-Tac-Toe  
 It is a basic Ruby project implementing the game on command line.  
 
 Componenets of Game:  
@@ -9,3 +9,11 @@ Componenets of Game:
   - get_move: to get the move from player and moving it in respective player variable
   - check_winner: after the move check if there is a winner.
   - game: to repeat this cycle 9 times and announce the result
+
+# Main Files
+`
+/
+|-  main.rb                 # file for instantiating or using the game class
+|-  lib
+|   |-  tic_tac_toe.rb      # File for game class
+`
