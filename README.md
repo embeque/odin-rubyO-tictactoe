@@ -12,7 +12,7 @@ Componenets of Game:
 
 # Main Files
 
-root/  
-├── main.rb               # Entry point; instantiates and runs the game  
+.  
+├── main.rb             # Entry point; instantiates and runs the game  
 └── lib/  
-|   └── tic_tac_toe.rb    # Contains the core TicTacToe game class  
+    └── tic_tac_toe.rb  # Contains the core TicTacToe game class  
